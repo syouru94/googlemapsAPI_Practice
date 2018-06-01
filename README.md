@@ -5,6 +5,6 @@
 
 以練習Google Maps提供之API為目標，裡頭使用了Geocoding API及Places API
 
-以coding內容為例，選取rating>4隻拉麵店，並限定為內湖區之拉麵店，顯示店名、地址、電話評價等資訊
+以coding內容為例，選取rating>4之拉麵店，並限定為內湖區之拉麵店，顯示店名、地址、電話評價等資訊
 
 <img src="https://i.imgur.com/HhO6L41.png">
